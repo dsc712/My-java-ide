@@ -11,7 +11,7 @@ Runtime and process class in java.
 
 ## project screenshots
 
-![alt ProjectScreenshots](https://raw.githubusercontent.com/dsc712/my-java-ide/master/calc15/screen1.png)
+![alt ProjectScreenshots](https://raw.githubusercontent.com/dsc712/my-java-ide/master/screen1.png)
 
 
-![alt ProjectScreenshots](https://raw.githubusercontent.com/dsc712/my-java-ide/master/calc15/screen2.png)
+![alt ProjectScreenshots](https://raw.githubusercontent.com/dsc712/my-java-ide/master/screen2.png)
