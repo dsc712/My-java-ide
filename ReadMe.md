@@ -8,10 +8,11 @@ Runtime and process class in java.
 > Created to practice using Runtime and Process class in java .
 
 
-
 ## project screenshots
 
 ![alt ProjectScreenshots](https://raw.githubusercontent.com/dsc712/my-java-ide/master/screen1.png)
 
 
 ![alt ProjectScreenshots](https://raw.githubusercontent.com/dsc712/my-java-ide/master/screen2.png)
+
+ note : write the path for java.exe and javac.exe a/c to your local pc for successful compilation .
